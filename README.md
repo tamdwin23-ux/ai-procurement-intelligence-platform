@@ -145,7 +145,7 @@ I build intelligent business systems using AI Agents, OpenAI, n8n, Make, Zapier,
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/tam-edwin-4a6804416
+- 💼 LinkedIn: https://www.linkedin.com/in/tam-edwin
 - 🌍 Portfolio: https://tamedwin.lovable.app
 - 📺 YouTube: https://youtube.com/@edwinaisolutions
 
